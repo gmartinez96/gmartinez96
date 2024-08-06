@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">I am passionate Spatial Data Scientist from Brazil</h3>
+<h1 align="left">Hi 👋, I'm Gabriel</h1>
+<h3 align="left">A passionate Data Science learner from Brazil</h3>
 
-- 🔭 I’m currently working on **I Care Brazil**
+- 🔭 Data Analyst at **I Care Brazil**
 
-- 🌱 I’m currently learning **Earth & Environmental Data Science**
+- 🌱 Environmental Engineer, foccused on learning **Earth & Environmental Data Science**
 
-<h2 align="left">Techs</h2>
+
+
+<img src="https://raw.githubusercontent.com/gmartinez96/gmartinez96/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h1 align="left">Technology Stack</h1>
 
 ###
 
@@ -47,10 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gmartinez96/gmartinez96/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Stats</h2>
 
 ###
@@ -59,7 +61,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gmartinez96&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gmartinez96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmartinez96&radius=16&theme=noctis-minimus&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=gmartinez96&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=gmartinez96&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<h2 align="left"></h2>
 
 ###
 
