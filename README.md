@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">I am passionate Spatial Data Scientist from Brazil</h3>
 
-
 - 🔭 I’m currently working on **I Care Brazil**
 
 - 🌱 I’m currently learning **Earth & Environmental Data Science**
